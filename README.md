@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me
-- 🧩 **Microsoft 365 Specialist** focused on Modern Workplace, End-User Compute & Cloud Identity  
-- 🛠 **Founder @ [Netix Digital](https://netix.digital)** — delivering cybersecurity-led IT solutions  
-- 🏢 Previously **Workplace Tech Lead @ NEXT Retail**  
-- 📊 Obsessed with **Log Analytics**, **KQL**, and **Grafana** for building pretty dashboards  
+- 🧩 **Microsoft 365 Specialist** focused on Modern Workplace, End-User Compute & Cloud Identity
+- 🛠 **Founder @ [Netix Digital](https://netix.digital)** — delivering Microsoft-first, cybersecurity-led IT solutions
+- 🏢 Previously **Workplace Tech Lead @ NEXT Retail**
+- 📊 Obsessed with **Log Analytics**, **KQL**, and **Grafana** for building pretty dashboards
 - 🧠 Always exploring automation, cloud security, and better user experiences
 
 ---
