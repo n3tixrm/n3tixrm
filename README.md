@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech & Tools I Love
+### 🛠️ Stack & Specialisms
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure AD / Entra](https://img.shields.io/badge/Azure%20AD%20/Entra-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
